@@ -1,0 +1,4 @@
+export(read.tax,process.orf.fasta.file,process.ORF.annotations,extract.bin.level.results.across.taxa)
+importFrom(gdata,trim)
+importFrom(Biostrings,readDNAStringSet)
+import(igraph,identifier.mapping)
